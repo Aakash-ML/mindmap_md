@@ -1,0 +1,35 @@
+---
+tags:
+  - Marketing
+  - Workshop
+---
+## Key Points
+
+- ![[Pasted image 20230915190516.png]]
+-  ![[Pasted image 20230915191545.png]]
+- ![[Pasted image 20230915191652.png]]
+- ![[Pasted image 20230915192120.png]]
+- ![[Pasted image 20230915192259.png]]
+- ![[Pasted image 20230915193028.png]]
+- ![[Pasted image 20230915194028.png]]
+- G2 data :- gives B2B data for potential customer.
+- ![[Pasted image 20230915200321.png]]
+- give it to chatGPT to get add story
+- ![[Pasted image 20230915201643.png]]
+- Google analytics (ga4)- measureschool yt channel [https://www.youtube.com/@MeasureSchool](https://www.youtube.com/@MeasureSchool)
+- app :- appflyer
+- MS Clarity
+- ![[Pasted image 20230915202224.png]]
+- ![[Pasted image 20230915202915.png]]
+- ![[Pasted image 20230915203015.png]]
+- ![[Pasted image 20230915203220.png]]
+- Simple ad account structure ![[Pasted image 20230915203644.png]]
+- ![[Pasted image 20230915204640.png]]
+- Google Plan:
+- ![[Pasted image 20230915204721.png]]
+- ![[Pasted image 20230915205030.png]]
+- ![[Pasted image 20230915204913.png]]
+- Design landing page: 
+- ![[Pasted image 20230915205825.png]]
+- ![[Pasted image 20230915210328.png]]
+- 
